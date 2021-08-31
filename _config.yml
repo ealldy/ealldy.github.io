@@ -103,6 +103,6 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/ealldy/ealldy.github.io.git
+  repo: git@github.com:ealldy/ealldy.github.io.git
   # example, https://github.com/hexojs/hexojs.github.io
   branch: master
